@@ -7,7 +7,7 @@
 
 <p align='center'></p>
 <p align='center'>
-<!--<a href="" download>Download my Resume</a>-->
+<!--<a href="" download>Download my Resume</a> i will update -->
   <br>
   <br>
 <a href="mailto:pushpendra.singh.psd@gmail.com" target="_blank">
